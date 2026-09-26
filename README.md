@@ -22,7 +22,7 @@ This project is part of Naan Mudhalvan - ServiceNow implementation for IT Procur
 - Service Catalog
 
 ## Team Members
-- Team Leader: Nathan
+- Team Leader: Saravanan T
 - Repo: 24uit524/SaravananNMproject
 
 ## Demo Video
